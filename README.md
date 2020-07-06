@@ -1,5 +1,5 @@
 # 1x2network-task
- This is my attempt the the 1x2network Tech-Test
+ This is my attempt at the 1x2network Tech-Test
  
  <h1> Final Game Screenshot </h1>
  
